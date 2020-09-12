@@ -1,0 +1,4 @@
+@EndUserText.label: 'Customer Material Service Definition'
+define service YGW_SP_CUST_MAT {
+  expose YGW_CE_CUST_MAT as CustomerMaterial;
+}

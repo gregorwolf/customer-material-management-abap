@@ -1,0 +1,5 @@
+@EndUserText.label: 'YGW_SC_CUST_MAT'
+@OData.schema.name: 'API_CUSTOMER_MATERIAL_SRV'
+define service YGW_SC_CUST_MAT {
+ expose ZYGWA_CUSTOMERMATERIAL; 
+ } 

@@ -1,0 +1,8 @@
+ implementation abstract;
+ define behavior for ZYGWA_CUSTOMERMATERIAL
+  etag ETAG__ETAG
+ {
+  create;
+ update;
+ delete;
+ }

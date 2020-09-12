@@ -1,0 +1,5 @@
+@EndUserText.label: 'YGW_SC_CUST_MAT_CAP'
+@OData.schema.name: 'CustomerMaterialService'
+define service YGW_SC_CUST_MAT_CAP {
+ expose ZZGWA_CUSTOMERMATERIAL; 
+ } 
